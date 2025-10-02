@@ -48,4 +48,4 @@ jobs:
           platforms: linux/amd64,linux/arm64
           push: true
           tags: |
-            ghcr.io/FloofsNetworkDevStuff/yolks:java_${{ matrix.tag }}
+            ghcr.io/floofsnetworkdevstuff/yolks:java_${{ matrix.tag }}
